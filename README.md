@@ -1,6 +1,6 @@
 # Análise_Matricial_Estrutural
 
-Cálculo via Análise Matricial dos esforços solicitantes em uma viga hiperestática através da linguagem de programação PYTHON.
+Cálculo via Análise Matricial dos esforços solicitantes de estruturas hiperestáticas através da linguagem de programação PYTHON.
 
 ![image](https://github.com/marciosadev/Analise_Matricial_Estrutural/assets/85747327/461e5340-3393-47d1-b49c-b0b5512ae441)
 
